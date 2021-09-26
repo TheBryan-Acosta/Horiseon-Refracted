@@ -1,5 +1,6 @@
 # Horiseon Refracted - Bryan Acosta De La Cruz
-
+GitHub Link : https://github.com/TheBryan-Acosta/Horiseon-Refracted
+GitPages Link : https://thebryan-acosta.github.io/Horiseon-Refracted/
 ## Description
 Challenge 02 Due September 26, This weeks challenge tasked us to update a clients website to meet accessibility standards,
 in addition with cleaning and making the code more efficient.
