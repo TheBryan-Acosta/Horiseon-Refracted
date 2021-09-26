@@ -2,7 +2,7 @@
 GitHub Link : https://github.com/TheBryan-Acosta/Horiseon-Refracted
 GitPages Link : https://thebryan-acosta.github.io/Horiseon-Refracted/
 ## Description
-Challenge 02 Due September 26, This weeks challenge tasked us to update a clients website to meet accessibility standards,
+Challenge 01 Due September 26, This weeks challenge tasked us to update a clients website to meet accessibility standards,
 in addition with cleaning and making the code more efficient.
 
 ### What was done
@@ -25,6 +25,7 @@ Developed with HTML, CSS through Visual Studio Code.
 
 ## Usage
 Example of a website with updated accessibility standards.
+
 
 ## Credits
 University of Texas Coding Bootcamp - Module 1
