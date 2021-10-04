@@ -20,6 +20,8 @@ by the root class, example (.content section and .benefits section) for sections
 I reordered the css elements to properly match the content of the page top to bottom.
 Assigned variables for repeated attribute values, mainly white and blue.
  
+## Images
+![HoriComp](assets\images\CompletedHori.png?raw=true "HotiCompleted")
 ## Installation
 Developed with HTML, CSS through Visual Studio Code.
 
